@@ -1,4 +1,4 @@
-###project title: Buy Chai for devs
+### project title: Buy Chai for devs
 
 A decentralized application using hardhat and ethers.js and will be deployed on netlify server.
 
